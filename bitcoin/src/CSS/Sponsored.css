@@ -1,0 +1,10 @@
+.Sponsored p{
+    background-color: lightgray;
+    border-radius: 30px;
+    height: 25px;
+    width: 500px;
+    /* display: flex; */
+}
+.Sponsored{
+    
+}

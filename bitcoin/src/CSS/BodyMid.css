@@ -1,0 +1,20 @@
+.BodyMid{
+    display: flex;
+    gap: 450px;
+    justify-content: center;
+    margin-top: 40px;
+}
+.info{
+    display: flex;
+    gap: 20px;
+}
+.bodyMidBalance{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cryptoImg{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}

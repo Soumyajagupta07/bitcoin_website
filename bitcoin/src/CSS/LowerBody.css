@@ -1,0 +1,14 @@
+.content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.content p{
+    display: flex;
+    width: 200px;
+}
+.lowerBody h2{
+    display: flex;
+    margin-left: 80px;
+}

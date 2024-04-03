@@ -1,0 +1,15 @@
+.balance{
+    margin: 0;
+    padding: 10px;
+    background-color: #f2d3c4;
+    height: 50px;
+    margin-top: 30px;
+    border-radius: 20px;
+    
+}
+.balance p{
+    /* display: block;
+    margin-block-start: 0; */
+    width: 1040px;
+    
+}

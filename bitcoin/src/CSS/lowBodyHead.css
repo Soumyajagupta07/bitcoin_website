@@ -1,0 +1,10 @@
+.lowBodyHead{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.lowBodyHead b{
+    border-bottom: 3px solid black;
+}
